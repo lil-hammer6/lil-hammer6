@@ -1,5 +1,5 @@
-### Introduction
--  👋 Hi, I’m @lil-hammer6 -- aka Lilly Sencenbaugh I am a postdoctoral researcher in the Weed Science lab at Penn State University.
+### 👋 Introduction
+- 💕 Hi, I’m @lil-hammer6 -- aka Lilly Sencenbaugh I am a postdoctoral researcher in the Weed Science lab at Penn State University.
 
   
 -  My doctoral research focused on the competitive dynamics and subsequent management of the invasive annual grasses Ventenata dubia and Bromus tectorum.
@@ -9,10 +9,10 @@
 -  My final project is to look at how ventenata and invaded communities respond to integrated weed management strategies combining common herbicides and macro- and micro-nutrient fertilizers.
 - At Penn State I am just getting started on looking at how weeds in cropping systems respond to herbicides and cover crops to determine best practices for integrated management and prevention of herbicide resistence in soybean fields across many states.
 ### 🔬 Research Interests
-- Plant interactions
-- Cover cropping as an integrated weed management strategy
-- Competition modeling 
-- Open science and reproducible data analysis
+- 🌱 Plant interactions
+- 👩🏻‍🌾 Cover cropping as an integrated weed management strategy
+- 🏆 Competition modeling 
+- 👩🏻‍🔬 Open science and reproducible data analysis
 ### 🛠 Tools I Use
 - R, R Studio, R Markdown (ggplot2, emmeans, drc, nls, lme, vegan, BiodiversityR, dplyr) 
 - New to GitHub
