@@ -7,7 +7,7 @@
 -  My management work focused on the use of biofumigation (the use of bioactive byproducts from Brassica species) to suppress germination of these species and native species in a Petri dish dose-response study and a greenhouse emergence experiment.
 -  Other work that is yet to be completed is a climate change study on ventenata using open top chambers and rain-out shelters to determine how invaded communities may change under climate change, and how response to a common herbicide ai (indaziflam) may differ.
 -  My final project is to look at how ventenata and invaded communities respond to integrated weed management strategies combining common herbicides and macro- and micro-nutrient fertilizers.
-- At Penn State I am just getting started on looking at how weeds in cropping systems respond to herbicides and cover crops to determine best practices for integrated management and prevention of herbicide resistence in soybean fields across many states.
+- At Penn State I am getting started on looking at how weeds in cropping systems respond to cover crops to determine best practices for integrated management and prevention of herbicide resistence in soybean fields across many states.
 ### 🔬 Research Interests
 - 🌱 Plant interactions
 - 👩🏻‍🌾 Cover cropping as an integrated weed management strategy
